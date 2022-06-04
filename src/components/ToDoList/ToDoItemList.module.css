@@ -1,0 +1,17 @@
+.container{
+    width: 50%;
+    padding: 1rem 2rem;
+}
+.none{
+    display: none;
+}
+.title{
+    font-size:2rem;
+    padding: 5px 0;
+    color: #747474;
+}
+.desc{
+    font-size: 1rem;
+    padding: 3px 0;    
+    color: #777;
+}
